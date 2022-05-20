@@ -1,0 +1,21 @@
+	     || GROCERY SHOP ||
+____________________________________
+
+Bill No. : 4691
+Customer Name :   smith
+Phone no.:    87631
+Address.:    jalahalli
+====================================
+Products		QTY	   Price
+====================================
+Maggie   			2	    60
+Daal     			3	    420
+Britania 			2	    400
+Thumbs-up			1	    200
+`````````````````````````````````````````
+Grocery  Tax			       Rs. 24.0
+Biscuit  Tax			       Rs. 20.0
+ColdDrink Tax			      Rs. 80.0
+`````````````````````````````````````````
+Total Bill :			      Rs. 1204.0
+`````````````````````````````````````````
